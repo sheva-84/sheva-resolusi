@@ -4,3 +4,4 @@
 - membuat forum diskusi
 - membuat produk digital
 - membuat blog 
+- membuat vlog
