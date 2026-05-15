@@ -3,6 +3,7 @@ rencana konten sheva
 -Javascript
 *ES6
 *FrameWork Javascript
+-struktur data 
 -PHP Framework
 -interview
 -vlog
