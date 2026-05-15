@@ -4,6 +4,7 @@ rencana konten sheva
 *ES6
 *FrameWork Javascript
  ^Vue
+ ^React
 -struktur data 
 -PHP Framework
  ^Laravel
